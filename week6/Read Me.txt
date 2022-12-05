@@ -1,0 +1,10 @@
+1. Run the db.json server in your local machine.
+   
+
+2. Now open the index.html with the browser.
+
+3.Click the start button.
+
+4.In order to get the next question please refresh the page.
+
+5. Select the answer from the available choices and click submit.If the selected answer is correct it will highlight the answer with green color else it will show your selected wrong answer with red color.
